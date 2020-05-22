@@ -1,4 +1,4 @@
-module github.com/slayercat/gosnmp
+module github.com/dtrenin7/gosnmp
 
 require (
 	github.com/golang/mock v1.2.0
